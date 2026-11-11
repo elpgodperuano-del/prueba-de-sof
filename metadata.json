@@ -1,0 +1,6 @@
+{
+  "name": "BioVigía 2.0",
+  "description": "Plataforma web de monitoreo ambiental y conservación de la biodiversidad en los humedales de Huasao y Saylla, Cusco, Perú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
